@@ -6,8 +6,7 @@
 #define EX05_SEPARATECOMPILATION_F_H
 
 #include<string>
-using std::string;
 namespace edu::vcccd::vc::csv13::A{
-    string f();
+    std::string f();
 }
 #endif //EX05_SEPARATECOMPILATION_F_H

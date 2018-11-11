@@ -4,8 +4,7 @@
 #include"f.h"
 
 namespace edu::vcccd::vc::csv13::A{
-    string f() {
+    std::string f(){
         return __FILE__;
     }
-
 }
