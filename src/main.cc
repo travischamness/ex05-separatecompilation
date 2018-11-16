@@ -7,10 +7,12 @@
 #include<iostream>
 using std::cout;
 using std::endl;
+//using edu::vcccd::vc::csv13::A::f();
+//using edu::vcccd::vc::csv13::A::g();
 int main(){
 
-    cout << edu::vcccd::vc::csv13::A::f() << endl;
-    cout << edu::vcccd::vc::csv13::A::g() << endl;
+    cout << f() << endl;
+    cout << g() << endl;
 
     return 0;
 }
